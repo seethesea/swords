@@ -1,0 +1,24 @@
+{
+  "name": "@seethesea/swords",
+  "version": "0.1.0",
+  "description": "A collection of swedish word utilities",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seethesea/swords.git"
+  },
+  "keywords": [],
+  "author": "Stefan Larson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seethesea/swords/issues"
+  },
+  "homepage": "https://github.com/seethesea/swords#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
